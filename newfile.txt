@@ -1,2 +1,3 @@
 this is afile added.  no branches
 1st change to this file (newfile.txt) remotely, and changes to readme.txt locally
+change locally and at the same time remotely
