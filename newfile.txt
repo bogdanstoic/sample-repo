@@ -2,3 +2,4 @@ this is afile added.  no branches
 1st change to this file (newfile.txt) remotely, and changes to readme.txt locally
 change locally and at the same time remotely
 2nd change remotely and at the same time local changes
+local change with remote change vs code test
