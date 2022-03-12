@@ -8,3 +8,4 @@ remote change with local change vs code test
   
 making chnages on remote github-branch
 another change on remote github-branch
+3rd change on remote github-branch to see when source tree is updated
