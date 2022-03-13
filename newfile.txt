@@ -6,4 +6,12 @@ local change with remote change vs code test
 remote change with local change vs code test
   this was added after merghering the 2 lines above
   
+
+-- Merge: changed from anotherGithub-branch
 changes made on anotherGithub-branch before github-branch merge. so no github-branch changes
+
+-- Merge: changes to main
+making chnages on remote github-branch
+another change on remote github-branch
+3rd change on remote github-branch to see when source tree is updated
+
