@@ -5,3 +5,5 @@ modified in github
 changes locally to this file (reademe.txt) and changes remotely to newfile.tx
 change to another file so see what happens in sourcetress
 hp-dev-spellingfix branch change
+
+Remote changes on the main branch to test merge
