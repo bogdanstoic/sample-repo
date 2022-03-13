@@ -6,3 +6,4 @@ local change with remote change vs code test
 remote change with local change vs code test
   this was added after merghering the 2 lines above
   
+Mking changes vs code locally main branch.  will update sourcetree when i click on file
