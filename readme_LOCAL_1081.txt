@@ -5,5 +5,3 @@ modified in github
 changes locally to this file (reademe.txt) and changes remotely to newfile.tx
 change to another file so see what happens in sourcetress
 plain dev changes
-
-Add login
